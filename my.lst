@@ -1,0 +1,3 @@
+clear
+cat shell.c
+ls
