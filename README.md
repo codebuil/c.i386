@@ -1,3 +1,3 @@
 # command.exe
 
-command line shell
+command line shell -util to elks operation system
