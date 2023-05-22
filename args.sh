@@ -1,4 +1,4 @@
-printf "\ec\e[41;36m\n"
+printf "\ec\e[41;30m\n"
 f=file.txt
 a=$(./filename $f)
 b=$(./args 0 $a)
