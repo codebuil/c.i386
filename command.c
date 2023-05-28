@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-//bcc -o hello hello.c
+//bcc -N -o hello hello.c
 int main(argc,argv)
 int argc;
 char *argv[];
